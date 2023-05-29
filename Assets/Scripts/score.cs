@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
+    
     public GameObject ScoreDisplay;
     public GameObject EndScoreDisplay;
     public int Distance;
